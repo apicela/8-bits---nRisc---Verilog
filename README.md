@@ -1,6 +1,6 @@
 # 8-bits---nRisc---Verilog
 
-# Lista de instruções suportadas pelo processador.
+# Lista de instruções suportadas pelo processador.<br />
 ADDI: Realizará uma soma entre um registrador e um imediato e registrará o resultado no
 mesmo registrador.
 SL: Realizará um shift lógico para a esquerda ou direita de até 3 casas de um registrador e
